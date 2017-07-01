@@ -1,0 +1,43 @@
+**********************************
+*                                *
+*      Baha Engine V0.2          *
+*  created by Darren Bahadoor    *
+*                                *
+**********************************
+
+--Version 0.1-- - Back end code of the engine
+[+]Frame, Character objects created.
+[+]Base console character creation created. Works in console
+[+]VERY BASIC Main Menu and Character Menu created
+[+]Quit button works now
+[+]Character creationg data ca nnow be stored and taken from user input
+
+--Version 0.2-- - More back end code of the engine
+[-]Removed Console character creation
+[+]Completed character creation into MainChar object
+[+]Created more getters and setters in Character and Frame.
+[+]Added a title to the main menu
+[+]Game loop added*******
+[+]Identity and basic rendering of rectangles for players
+
+--Version 0.3-- Boundary, Physics, Collision
+[+]ObjectHandler addded, really good way to edit objects within other classes!
+[+]ControlHandler added. Very basic movement with arrow keys 
+[+]Basic Screen Boundary added. 
+[+]Collision DETECTION with objects added. Method is called GetBoundary.intersects(object name)
+[+]Left, right, top, bottom collision added with cube.
+[+]Correct positioning with cube added for collision.
+[+]Added smoother controls, disabled up and down arrow keys
+[+]PhysicsHandler added
+[+]Basic FreeFall added
+[+]Basic jumping addded
+[+]Added basic floor object for testing purposes
+[!]Fixed inifnite jump bug
+[!]Fixed the initial free fall bug that causes you to press spacebar once before the actual jump works. 
+[+]NPC Added, NPC Movement, NPC Collision
+
+[!]Fixed a bug where a rendered player object would leave a trail when moving
+
+--Version 0.3-- -Movement, Boundary, a little bit of physics
+
+
